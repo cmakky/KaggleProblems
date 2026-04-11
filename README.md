@@ -1,4 +1,5 @@
 # Kaggle Problems
+Here you can find all the Kaggle problems that I had to solve.
 
 ## Regression:
 - [Boston Housing](Regression/BostonHousing.ipynb) - predicting the median home price in Boston
